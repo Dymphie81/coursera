@@ -1,1 +1,1 @@
-# This is a summary of Data Science Toola and Ecosystem
+# This is a summary of Data Science Tools and Ecosystem
